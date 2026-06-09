@@ -1,0 +1,14 @@
+# build files
+shocktube
+*.o
+*.mod
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+
+# large/intermediate files
+*.dat
+*.tec
